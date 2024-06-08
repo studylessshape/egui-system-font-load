@@ -1,6 +1,8 @@
 # system fonts load for egui
 This repo show how to load system fonts for egui.
 
+![](screenshot.png)
+
 ## Logic
 Read all font families, and load them to `egui::FontDefinitions` by family name. 
 
